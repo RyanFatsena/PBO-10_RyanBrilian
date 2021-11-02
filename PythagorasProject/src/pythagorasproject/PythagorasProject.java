@@ -56,7 +56,7 @@ public class PythagorasProject {
                 // Terminate JVM
                 System.exit(0);
             default :
-                System.out.println("Silahkan Pilih Menu Pilihan Anda : ");
+                System.out.println("Program Selesai");
                 
         }
     }
